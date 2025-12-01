@@ -1,0 +1,36 @@
+﻿# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+
+# Visual Studio cache files
+*.vsidx
+*.vspscc
+.vssscc
+$tf/
+
+# ReSharper
+_ReSharper*/
+*.ReSharper
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+
+# NuGet Packages
+*.nupkg
+packages/
